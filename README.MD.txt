@@ -1,3 +1,7 @@
+# Rival Blog Platform
+**Live Demo:** [https://rival-assesment.vercel.app](https://rival-assesment.vercel.app)
+**Backend:** [https://rival-assesment.onrender.com](https://rival-assesment.onrender.com)
+
 # Full-Stack Personal Blog Platform
 
 A robust, full-stack blogging application featuring secure authentication, dynamic routing, and real-time social interactions. Built as a technical assessment, this project demonstrates proficiency in modern web architecture and performance optimization.
